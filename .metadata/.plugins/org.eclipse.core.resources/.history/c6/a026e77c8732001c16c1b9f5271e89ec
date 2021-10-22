@@ -1,0 +1,20 @@
+package com.maxtrain.tutorial;
+
+import com.maxtrain.tutorial.models.Customer;
+//import com.maxtrain.tutorial.models.*;  this imports all classes 
+
+public class HelloWorldJava {
+
+	public static void main(String[] args) {
+		var customer = new Customer();
+		customer.setName("Fred Inc.");
+		customer.setSales(0);
+											// int,string,float
+		var message = String.format("Customer: %d | %s | %f", 
+										customer.getId(),
+										customer.getName(),
+										customer.getSales());
+		System.out.println(message);
+	}
+
+}

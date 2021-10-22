@@ -1,0 +1,11 @@
+package com.maxtrain.tutorial;
+
+public class HelloWorldJava {
+
+	public static void main(String[] args) {
+		System.out.println("Hello, World-Java!");
+		int i = 0;
+		int j = i + 1;
+	}
+
+}

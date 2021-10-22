@@ -1,0 +1,53 @@
+package com.maxtrain.tutorial.models;
+
+public class Customer {
+	
+	private int id; 
+	private String name;
+	private double sales;
+	
+	public void Print() throws Exception {
+		var trueOrFalse = true;
+		if(!trueOrFalse) {
+			throw new Exception();
+		}
+	}
+	
+	public void Debug() throws Exception {
+		Print();
+	}
+	
+	public int getId() {
+		return id;
+	} private void setId(int id) {
+		this.id = id;
+	}
+	
+	public String getName() {
+		return name;
+	} public void setName(String name) {
+		this.name = name;
+	}
+	
+	public double getSales() {
+		return sales;
+	} public void setSales(double sales) {
+		if(sales < 0) {
+			//do something about it
+		}
+		this.sales = sales;
+	}
+	public Customer() {}
+	public Customer(String name) { 
+		this.setName(name); 
+	}
+	
+	public Customer(String name, double sales) {
+		//this line uses the code for name above do not duplicate code updating more code sucks!!!
+		this(name);
+		this.setSales(sales);
+	}
+	
+	
+	
+}

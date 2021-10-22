@@ -1,0 +1,6 @@
+package ConfidenceBuilder;
+
+public class MagCalcPrac {
+	ArrayList<double> nbrs = new ArrayList<int>();
+
+}

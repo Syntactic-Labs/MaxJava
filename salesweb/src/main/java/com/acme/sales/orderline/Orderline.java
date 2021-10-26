@@ -18,7 +18,7 @@ public class Orderline {
 	private int id;
 	@Column(length=30, nullable=false)
 	private String product;
-	private int quantity;
+	private int quantity = 0;
 	private int price;
 	
 	@ManyToOne(optional=false)

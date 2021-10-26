@@ -44,7 +44,7 @@ public class OrderlinesController {
 		}
 		orderline.setId(0);
 		var newOrderline = orderlineRepo.save(orderline);
-		RecalculateOrder(orderline.getOrder().getId());
+		RecalculateTotal(orderline.getOrder().getId());
 		return new ResponseEntity<Orderline>(newOrderline, HttpStatus.CREATED);
 	}
 	@SuppressWarnings("rawtypes")
@@ -58,7 +58,7 @@ public class OrderlinesController {
 			return new ResponseEntity<>(HttpStatus.NO_CONTENT);
 		}
 		orderlineRepo.save(orderline);
-		RecalculateOrder(orderline.getOrder().getId());
+		RecalculateTotal(orderline.getOrder().getId());
 		return new ResponseEntity<>(HttpStatus.NO_CONTENT);
 	}
 	@SuppressWarnings("rawtypes")
@@ -69,10 +69,10 @@ public class OrderlinesController {
 			return new ResponseEntity<>(HttpStatus.NOT_FOUND);			
 		}
 		orderlineRepo.deleteById(id);
-		RecalculateOrder(orderline.get().getOrder().getId());
+		RecalculateTotal(orderline.get().getOrder().getId());
 		return new ResponseEntity<>(HttpStatus.NO_CONTENT);
 	}
-	private void RecalculateOrder(int orderId) throws Exception {
+	private void RecalculateTotal(int orderId) throws Exception {
 		var optOrder = orderRepo.findById(orderId);
 		if(optOrder.isEmpty()) {
 			throw new Exception("Order id is invalid");

@@ -1649,3 +1649,222 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact antlr:antlr:j
 2021-10-22 15:50:02,881 [Worker-104: Launching salesweb - SaleswebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2021-10-22 15:50:02,883 [Worker-104: Launching salesweb - SaleswebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2021-10-22 15:50:02,883 [Worker-104: Launching salesweb - SaleswebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-22 15:50:02,883 [Worker-104: Launching salesweb - SaleswebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\repos\JAVA\salesweb\src\test\resources
+2021-10-25 09:01:50,508 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-10-25 09:29:50,244 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-25 09:29:50,244 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-25 09:29:50,247 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-10-25 09:29:50,300 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-25 09:29:50,303 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-25 09:29:50,303 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-25 09:29:50,304 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\repos\JAVA\salesweb\src\test\resources
+2021-10-25 09:40:25,773 [Worker-23: Launching salesweb - SaleswebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-25 09:40:25,776 [Worker-23: Launching salesweb - SaleswebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-25 09:40:25,780 [Worker-23: Launching salesweb - SaleswebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-10-25 09:40:25,830 [Worker-23: Launching salesweb - SaleswebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-25 09:40:25,836 [Worker-23: Launching salesweb - SaleswebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-25 09:40:25,836 [Worker-23: Launching salesweb - SaleswebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-25 09:40:25,836 [Worker-23: Launching salesweb - SaleswebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\repos\JAVA\salesweb\src\test\resources
+2021-10-25 10:01:26,960 [Worker-33: Launching salesweb - SaleswebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-25 10:01:26,960 [Worker-33: Launching salesweb - SaleswebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-25 10:01:26,961 [Worker-33: Launching salesweb - SaleswebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-10-25 10:01:27,040 [Worker-33: Launching salesweb - SaleswebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-25 10:01:27,045 [Worker-33: Launching salesweb - SaleswebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-25 10:01:27,046 [Worker-33: Launching salesweb - SaleswebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-25 10:01:27,047 [Worker-33: Launching salesweb - SaleswebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\repos\JAVA\salesweb\src\test\resources
+2021-10-25 10:16:01,901 [Worker-47: Launching salesweb - SaleswebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-25 10:16:01,901 [Worker-47: Launching salesweb - SaleswebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-25 10:16:01,902 [Worker-47: Launching salesweb - SaleswebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-10-25 10:16:01,908 [Worker-47: Launching salesweb - SaleswebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-25 10:16:01,911 [Worker-47: Launching salesweb - SaleswebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-25 10:16:01,911 [Worker-47: Launching salesweb - SaleswebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-25 10:16:01,911 [Worker-47: Launching salesweb - SaleswebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\repos\JAVA\salesweb\src\test\resources
+2021-10-25 10:25:23,759 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-25 10:25:23,759 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-25 10:25:23,761 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-10-25 10:25:23,771 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-25 10:25:23,773 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-25 10:25:23,773 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-25 10:25:23,773 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\repos\JAVA\salesweb\src\test\resources
+2021-10-25 11:00:09,082 [Worker-55: Launching salesweb - SaleswebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-25 11:00:09,082 [Worker-55: Launching salesweb - SaleswebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-25 11:00:09,083 [Worker-55: Launching salesweb - SaleswebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-10-25 11:00:09,098 [Worker-55: Launching salesweb - SaleswebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-25 11:00:09,100 [Worker-55: Launching salesweb - SaleswebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-25 11:00:09,100 [Worker-55: Launching salesweb - SaleswebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-25 11:00:09,100 [Worker-55: Launching salesweb - SaleswebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\repos\JAVA\salesweb\src\test\resources
+2021-10-25 11:04:33,395 [Worker-55: Launching salesweb - SaleswebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-25 11:04:33,395 [Worker-55: Launching salesweb - SaleswebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-25 11:04:33,396 [Worker-55: Launching salesweb - SaleswebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-10-25 11:04:33,404 [Worker-55: Launching salesweb - SaleswebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-25 11:04:33,406 [Worker-55: Launching salesweb - SaleswebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-25 11:04:33,406 [Worker-55: Launching salesweb - SaleswebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-25 11:04:33,406 [Worker-55: Launching salesweb - SaleswebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\repos\JAVA\salesweb\src\test\resources
+2021-10-25 11:16:48,253 [Worker-74: Launching salesweb - SaleswebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-25 11:16:48,253 [Worker-74: Launching salesweb - SaleswebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-25 11:16:48,254 [Worker-74: Launching salesweb - SaleswebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-10-25 11:16:48,259 [Worker-74: Launching salesweb - SaleswebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-25 11:16:48,262 [Worker-74: Launching salesweb - SaleswebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-25 11:16:48,262 [Worker-74: Launching salesweb - SaleswebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-25 11:16:48,262 [Worker-74: Launching salesweb - SaleswebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\repos\JAVA\salesweb\src\test\resources
+2021-10-25 11:20:31,686 [Worker-78: Launching salesweb - SaleswebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-25 11:20:31,686 [Worker-78: Launching salesweb - SaleswebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-25 11:20:31,687 [Worker-78: Launching salesweb - SaleswebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-10-25 11:20:31,692 [Worker-78: Launching salesweb - SaleswebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-25 11:20:31,694 [Worker-78: Launching salesweb - SaleswebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-25 11:20:31,694 [Worker-78: Launching salesweb - SaleswebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-25 11:20:31,694 [Worker-78: Launching salesweb - SaleswebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\repos\JAVA\salesweb\src\test\resources
+2021-10-25 11:35:47,970 [Worker-85: Launching salesweb - SaleswebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-25 11:35:47,971 [Worker-85: Launching salesweb - SaleswebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-25 11:35:47,971 [Worker-85: Launching salesweb - SaleswebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-10-25 11:35:47,977 [Worker-85: Launching salesweb - SaleswebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-25 11:35:47,980 [Worker-85: Launching salesweb - SaleswebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-25 11:35:47,980 [Worker-85: Launching salesweb - SaleswebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-25 11:35:47,980 [Worker-85: Launching salesweb - SaleswebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\repos\JAVA\salesweb\src\test\resources
+2021-10-25 11:39:57,553 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-25 11:39:57,553 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-25 11:39:57,553 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-10-25 11:39:57,557 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-25 11:39:57,559 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-25 11:39:57,559 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-25 11:39:57,559 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\repos\JAVA\salesweb\src\test\resources
+2021-10-25 11:44:39,280 [Worker-83: Launching salesweb - SaleswebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-25 11:44:39,280 [Worker-83: Launching salesweb - SaleswebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-25 11:44:39,281 [Worker-83: Launching salesweb - SaleswebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-10-25 11:44:39,286 [Worker-83: Launching salesweb - SaleswebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-25 11:44:39,287 [Worker-83: Launching salesweb - SaleswebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-25 11:44:39,287 [Worker-83: Launching salesweb - SaleswebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-25 11:44:39,288 [Worker-83: Launching salesweb - SaleswebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\repos\JAVA\salesweb\src\test\resources
+2021-10-25 12:07:56,648 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-25 12:07:56,648 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-25 12:07:56,649 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-10-25 12:07:56,660 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-25 12:07:56,663 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-25 12:07:56,663 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-25 12:07:56,663 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\repos\JAVA\salesweb\src\test\resources
+2021-10-25 12:18:59,301 [Worker-103: Launching salesweb - SaleswebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-25 12:18:59,301 [Worker-103: Launching salesweb - SaleswebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-25 12:18:59,302 [Worker-103: Launching salesweb - SaleswebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-10-25 12:18:59,306 [Worker-103: Launching salesweb - SaleswebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-25 12:18:59,308 [Worker-103: Launching salesweb - SaleswebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-25 12:18:59,308 [Worker-103: Launching salesweb - SaleswebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-25 12:18:59,308 [Worker-103: Launching salesweb - SaleswebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\repos\JAVA\salesweb\src\test\resources
+2021-10-25 12:23:08,692 [Worker-103: Launching salesweb - SaleswebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-25 12:23:08,692 [Worker-103: Launching salesweb - SaleswebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-25 12:23:08,692 [Worker-103: Launching salesweb - SaleswebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-10-25 12:23:08,697 [Worker-103: Launching salesweb - SaleswebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-25 12:23:08,699 [Worker-103: Launching salesweb - SaleswebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-25 12:23:08,699 [Worker-103: Launching salesweb - SaleswebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-25 12:23:08,699 [Worker-103: Launching salesweb - SaleswebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\repos\JAVA\salesweb\src\test\resources
+2021-10-25 12:27:01,056 [Worker-103: Launching salesweb - SaleswebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-25 12:27:01,056 [Worker-103: Launching salesweb - SaleswebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-25 12:27:01,057 [Worker-103: Launching salesweb - SaleswebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-10-25 12:27:01,063 [Worker-103: Launching salesweb - SaleswebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-25 12:27:01,065 [Worker-103: Launching salesweb - SaleswebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-25 12:27:01,065 [Worker-103: Launching salesweb - SaleswebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-25 12:27:01,065 [Worker-103: Launching salesweb - SaleswebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\repos\JAVA\salesweb\src\test\resources
+2021-10-25 13:42:19,216 [Worker-104: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-25 13:42:19,216 [Worker-104: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-25 13:42:19,217 [Worker-104: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-10-25 13:42:19,223 [Worker-104: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-25 13:42:19,225 [Worker-104: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-25 13:42:19,225 [Worker-104: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-25 13:42:19,225 [Worker-104: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\repos\JAVA\salesweb\src\test\resources
+2021-10-25 13:43:48,052 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-25 13:43:48,052 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-25 13:43:48,054 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-10-25 13:43:48,058 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-25 13:43:48,060 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-25 13:43:48,060 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-25 13:43:48,060 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\repos\JAVA\salesweb\src\test\resources
+2021-10-25 13:45:03,432 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-25 13:45:03,433 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-25 13:45:03,433 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-10-25 13:45:03,437 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-25 13:45:03,440 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-25 13:45:03,440 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-25 13:45:03,440 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\repos\JAVA\salesweb\src\test\resources
+2021-10-25 13:45:05,973 [Worker-104: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-25 13:45:05,974 [Worker-104: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-25 13:45:05,974 [Worker-104: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-10-25 13:45:05,978 [Worker-104: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-25 13:45:05,980 [Worker-104: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-25 13:45:05,980 [Worker-104: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-25 13:45:05,980 [Worker-104: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\repos\JAVA\salesweb\src\test\resources
+2021-10-25 13:47:01,761 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-25 13:47:01,761 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-25 13:47:01,762 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-10-25 13:47:01,766 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-25 13:47:01,768 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-25 13:47:01,768 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-25 13:47:01,768 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\repos\JAVA\salesweb\src\test\resources
+2021-10-25 13:52:58,275 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-25 13:52:58,276 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-25 13:52:58,278 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-10-25 13:52:58,282 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-25 13:52:58,285 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-25 13:52:58,285 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-25 13:52:58,285 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\repos\JAVA\salesweb\src\test\resources
+2021-10-25 13:58:52,731 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-25 13:58:52,731 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-25 13:58:52,732 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-10-25 13:58:52,736 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-25 13:58:52,739 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-25 13:58:52,739 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-25 13:58:52,739 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\repos\JAVA\salesweb\src\test\resources
+2021-10-25 14:20:53,716 [Worker-128: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-25 14:20:53,716 [Worker-128: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-25 14:20:53,717 [Worker-128: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-10-25 14:20:53,739 [Worker-128: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-25 14:20:53,742 [Worker-128: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-25 14:20:53,742 [Worker-128: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-25 14:20:53,742 [Worker-128: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\repos\JAVA\salesweb\src\test\resources
+2021-10-25 14:27:03,563 [Worker-134: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-25 14:27:03,563 [Worker-134: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-25 14:27:03,563 [Worker-134: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-10-25 14:27:03,589 [Worker-134: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-25 14:27:03,591 [Worker-134: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-25 14:27:03,591 [Worker-134: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-25 14:27:03,591 [Worker-134: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\repos\JAVA\salesweb\src\test\resources
+2021-10-25 14:41:59,586 [Worker-144: Launching salesweb - SaleswebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-25 14:41:59,587 [Worker-144: Launching salesweb - SaleswebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-25 14:41:59,587 [Worker-144: Launching salesweb - SaleswebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-10-25 14:41:59,591 [Worker-144: Launching salesweb - SaleswebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-25 14:41:59,593 [Worker-144: Launching salesweb - SaleswebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-25 14:41:59,593 [Worker-144: Launching salesweb - SaleswebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-25 14:41:59,593 [Worker-144: Launching salesweb - SaleswebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\repos\JAVA\salesweb\src\test\resources
+2021-10-25 14:47:44,696 [Worker-146: Launching salesweb - SaleswebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-25 14:47:44,696 [Worker-146: Launching salesweb - SaleswebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-25 14:47:44,697 [Worker-146: Launching salesweb - SaleswebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-10-25 14:47:44,701 [Worker-146: Launching salesweb - SaleswebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-25 14:47:44,703 [Worker-146: Launching salesweb - SaleswebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-25 14:47:44,703 [Worker-146: Launching salesweb - SaleswebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-25 14:47:44,703 [Worker-146: Launching salesweb - SaleswebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\repos\JAVA\salesweb\src\test\resources
+2021-10-25 15:53:31,289 [Worker-157: Launching salesweb - SaleswebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-25 15:53:31,290 [Worker-157: Launching salesweb - SaleswebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-25 15:53:31,290 [Worker-157: Launching salesweb - SaleswebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-10-25 15:53:31,309 [Worker-157: Launching salesweb - SaleswebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-25 15:53:31,311 [Worker-157: Launching salesweb - SaleswebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-25 15:53:31,311 [Worker-157: Launching salesweb - SaleswebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-25 15:53:31,312 [Worker-157: Launching salesweb - SaleswebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\repos\JAVA\salesweb\src\test\resources
+2021-10-25 15:57:53,617 [Worker-161: Launching salesweb - SaleswebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-25 15:57:53,618 [Worker-161: Launching salesweb - SaleswebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-25 15:57:53,618 [Worker-161: Launching salesweb - SaleswebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-10-25 15:57:53,623 [Worker-161: Launching salesweb - SaleswebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-25 15:57:53,624 [Worker-161: Launching salesweb - SaleswebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-25 15:57:53,624 [Worker-161: Launching salesweb - SaleswebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-25 15:57:53,624 [Worker-161: Launching salesweb - SaleswebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\repos\JAVA\salesweb\src\test\resources
+2021-10-25 16:10:57,662 [Worker-160: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-25 16:10:57,662 [Worker-160: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-25 16:10:57,663 [Worker-160: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-10-25 16:10:57,667 [Worker-160: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-25 16:10:57,669 [Worker-160: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-25 16:10:57,669 [Worker-160: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-25 16:10:57,669 [Worker-160: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\repos\JAVA\salesweb\src\test\resources
+2021-10-25 16:34:07,326 [Worker-173: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-25 16:34:07,326 [Worker-173: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-25 16:34:07,327 [Worker-173: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-10-25 16:34:07,348 [Worker-173: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-25 16:34:07,350 [Worker-173: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-25 16:34:07,350 [Worker-173: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-25 16:34:07,350 [Worker-173: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\repos\JAVA\salesweb\src\test\resources

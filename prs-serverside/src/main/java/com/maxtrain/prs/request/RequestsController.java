@@ -65,26 +65,26 @@ public class RequestsController {
 		return new ResponseEntity<>(HttpStatus.NO_CONTENT);
 	}
 	@GetMapping("user/{userId}")
-	public ResponseEntity<Iterable<Request>> GetOrderNotCustomer(@PathVariable int userId) {
-		var requests = requestRepo.findByUserIdNot(userId);
-		return new ResponseEntity<Iterable<Request>>(requests, HttpStatus.I_AM_A_TEAPOT);
+	public ResponseEntity<Iterable<Request>> GetRequestNotUser(@PathVariable int userId) {
+		var requests = requestRepo.findByStatusAndUserIdNot("Review", userId);
+		return new ResponseEntity<Iterable<Request>>(requests, HttpStatus.OK);
 	}
 	@SuppressWarnings("rawtypes")
 	@PutMapping("review/{id}")
-	public ResponseEntity SetOrderToZero(@PathVariable int id, @RequestBody Request request) {
+	public ResponseEntity EvaluatesNewRequest(@PathVariable int id, @RequestBody Request request) {
 		var newStatus = request.getTotal() <= 100 ? "Approve" : "Review";
 		request.setStatus(newStatus);
 		return Update(id, request);
 	}
 	@SuppressWarnings("rawtypes")
 	@PutMapping("approve/{id}")
-	public ResponseEntity SetOrderTo5000(@PathVariable int id, @RequestBody Request request) {
+	public ResponseEntity SetRequestToApprove(@PathVariable int id, @RequestBody Request request) {
 		request.setStatus("Approve");
 		return Update(id, request);
 	}
 	@SuppressWarnings("rawtypes")
 	@PutMapping("reject/{id}")
-	public ResponseEntity SetOrderToNegative(@PathVariable int id, @RequestBody Request request) {
+	public ResponseEntity SetRequestToRejected(@PathVariable int id, @RequestBody Request request) {
 		request.setStatus("Rejected");
 		return Update(id,request);
 	}

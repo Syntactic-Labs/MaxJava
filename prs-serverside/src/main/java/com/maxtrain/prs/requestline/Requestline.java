@@ -10,7 +10,7 @@ import javax.persistence.ManyToOne;
 import com.maxtrain.prs.product.Product;
 import com.maxtrain.prs.request.Request;
 
-@Entity(name="requestline")
+@Entity(name="requestlines")
 public class Requestline {
 	
 	@Id
